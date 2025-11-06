@@ -1,6 +1,6 @@
 # Structural Rank η(k): Universal Diophantine Representation
 
-**Автор:** Сергей Табалевич (Sergei V. Tabalevich)  
+**Автор:** Сергей Табалевич (Siarhei P. Tabalevich)  
 **Email:** 6955400@gmail.com  
 **ORCID:** [0009-0007-4425-9443](https://orcid.org/0009-0007-4425-9443)  
 **Лицензия:** CC BY-NC 4.0
