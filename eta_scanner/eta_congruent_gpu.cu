@@ -1,6 +1,6 @@
 /*
  * eta_congruent_gpu.cu — ASSA-NI Structural Rank Analyzer (FINAL OPTIMIZED 2025)
- * Author: Sergei V. Tabalevich
+ * Author: Serhei P. Tabalevich
  * ORCID: https://orcid.org/0009-0007-4425-9443
  * Repository: https://github.com/ASSA-NI-ATOM/structural-rank-eta
  * License: CC BY-NC 4.0
